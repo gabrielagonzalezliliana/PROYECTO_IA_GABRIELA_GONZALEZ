@@ -44,5 +44,5 @@ El proyecto es viable técnicamente y factible de desarrollar con las siguientes
 •	Interfaz de Usuario: Django para permitir la carga de archivos y la interacción con los prompts.
 
 # Conclusión
-Este proyecto orientado a pequeñas empresas,  permitirá a cualquier usuario sin experiencia en programación analizar datos de ventas de manera rápida  utilizando prompts en lenguaje natural. Al combinar modelos de texto a texto para la generación de consultas y texto a imagen para la creación de visualizaciones, se ofrecerá una solución  accesible para el análisis de datos, sin la necesidad de contar con un equipo especializado.
+Este proyecto orientado a pequeñas empresas,  permitirá a cualquier usuario sin experiencia en programación analizar datos de ventas de manera rápida  utilizando prompts en lenguaje natural. Al combinar modelos de texto a texto para la generación de reportes y de texto a imagen para la creación de una imagen en el reporte, se ofrecerá una solución  accesible para el análisis de datos, sin la necesidad de contar con un equipo especializado.
 ![image](https://github.com/user-attachments/assets/2aa6eae9-1e56-44e5-bc89-35413748611c)
