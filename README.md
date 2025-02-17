@@ -11,7 +11,7 @@ Para abordar esta problemática, propongo desarrollar una herramienta basada en 
 2.	Texto a Imagen: Un modelo de generación de imágenes  transformará los resultados en visualizaciones automáticas.
 
 Funcionamiento de la Herramienta
-1.	El usuario sube un dataset de ventas en formato CSV. el Dataset utilizado en este caso fue: 
+1.	El usuario sube un dataset de ventas en formato CSV. el Dataset utilizado en este caso fue: https://drive.google.com/file/d/1nM_EjkrgmGV9HnUz95RmfjHb72gOmfFm/view?usp=sharing
 2.	Introduce una consulta en lenguaje natural, por ejemplo:
 Actúa como un científico de datos especializado en análisis de ventas y genera un informe analítico exhaustivo basado en los insights extraídos del dataset proporcionado. El informe debe ser técnico, estructurado y respaldado por datos, destacando patrones, correlaciones y estrategias de optimización para mejorar la rentabilidad y eficiencia del negocio.
 
