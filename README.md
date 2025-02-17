@@ -7,8 +7,8 @@ Este problema se puede observar  en el ámbito del análisis de ventas, donde la
 
 # Desarrollo de la Propuesta de Solución
 Para abordar esta problemática, propongo desarrollar una herramienta basada en Prompt Engineering que permita a los usuarios generar análisis de datos de ventas a partir de lenguaje natural. La solución se centrará en dos modelos de IA:
-1.	Texto a Texto: Un modelo de lenguaje (Groq) interpretará las consultas en lenguaje natural y las convertirá en código Python o SQL para extraer los datos adecuados.
-2.	Texto a Imagen: Un modelo de generación de imágenes  transformará los resultados en visualizaciones automáticas.
+1.	Texto a Texto: Un modelo de lenguaje (Groq) interpretará las consultas en lenguaje natural y me retorna un reporte con los datos analizados.
+2.	Texto a Imagen: Un modelo de generación de imágenes, con incorporacion de la imagen al reporte.
 
 #Funcionamiento de la Herramienta
 1.	El usuario sube un dataset de ventas en formato CSV. el Dataset utilizado en este caso fue: https://drive.google.com/file/d/1nM_EjkrgmGV9HnUz95RmfjHb72gOmfFm/view?usp=sharing
@@ -30,7 +30,7 @@ En base a los datos disponibles me podrias realizar una prediccion de las ventas
 
 3.	El modelo de texto a texto convierte el prompt en código Python/SQL.
 4.	El código se ejecuta y me genera un reporte con los datos solicitados.
-5.	El modelo de texto a imagen  genera la imagen que sze incorporara al reporte.
+5.	El modelo de texto a imagen  genera la imagen que ze incorpora al reporte.
 6.	Se descarga un pdf con el reporte generado.
 
    
